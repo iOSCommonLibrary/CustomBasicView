@@ -7,4 +7,5 @@ CustomBasicView
 ### 4 自定义日历 CustomCalendar
 ### 5 自定义时钟 CustomCloc
 ### 6 自定义星级评分视图
-### 7 自定义滑块Custom Slider    
+### 7 自定义滑块Custom Slider 
+### 8 环形进度条Circle Process   
