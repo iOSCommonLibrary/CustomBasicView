@@ -1,7 +1,7 @@
 CustomBasicView
 ================
 
-### Purpose ：自己练手，也希望未来有时需要急用时可以直接用
+#### Todo：用Swift全部重构
 
 #### 1 自定义下拉列表 Combobox 
 #### 2 自定义选择日期视图，基于自定义下拉列表ChooseDate  
